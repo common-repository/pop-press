@@ -1,0 +1,32 @@
+#toplevel_page_pop-signUp img{
+		height: 20px;
+}
+.pop_tabs{
+	display:none;
+}
+.active.pop_tabs{
+	display:block;
+	padding: 0 20px;
+}
+input{
+	height: 30px;
+	margin-bottom: 10px;
+}
+ul#expl{
+	list-style:initial;
+}
+
+#popFrm label{
+	width:40px;
+	display: inline-block; 
+}
+
+#expl li{
+	margin-left: 17px;
+}
+
+#signUp img{
+	margin-left: -12px;
+}
+
+
